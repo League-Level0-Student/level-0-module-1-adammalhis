@@ -13,7 +13,7 @@ public static void main(String[] args) {
 	if(hi.equals(password)) {
 	JOptionPane.showMessageDialog(null,TheMessage);}
 	else
-	JOptionPane.showMessageDialog(null,"INTRUTER!!!!!!!!!!!");
+	JOptionPane.showMessageDialog(null,"INTRUDER!!!!!!!!!!!");
 
 }
 }
